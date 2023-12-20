@@ -91,6 +91,38 @@ Dylan:
  - git add CVDylan.html
  - Création du fichier StyleCVDylan.css avec touch StyleCVDylan.css
  - git add StyleCVDylan.css
- -  du premier commit avec les fichiers vides avec
+ - Création du premier commit avec les fichiers vides avec
+ - git config --global user.email "dydywg13@gmail.com"
+ - git commit
+ - git push origin CVDylan
+ - git checkout master
+ - git fetch --all
+ - git pull origin master
+ - git merge CVDylan
+ - git push origin master
+ - git checkout CVDylan
+ - git checkout master
+ - git fetch --all
+ - git pull origin master
+ - git checkout CVDylan
+ - git fetch --all
+ - git rebase master
+ - git stash
+ - git rebase master
+ - git checkout master
+ - git pull origin master
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
